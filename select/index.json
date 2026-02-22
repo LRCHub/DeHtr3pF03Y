@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "23:12",
+  "base_artist": "FOMARE",
+  "createdAt": "2026-02-22T12:51:03.898255Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Marigold (Dave's original demo, Upland Studios, Arlington, VA - 23\u000012\u000090)",
+      "artist": "Nirvana",
+      "has_synced": true,
+      "path": "select/01_Marigold_(Dave's_original_demo,_Upland_Studios,_Arlington,_VA_-_23\u000012\u000090)_Nirvana.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Marigold (Dave's original demo, Upland Studios, Arlington, VA - 23/12/90)",
+      "artist": "Nirvana",
+      "has_synced": true,
+      "path": "select/02_Marigold_(Dave's_original_demo,_Upland_Studios,_Arlington,_VA_-_23_12_90)_Nirvana.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Blue Christmas (BBC Going Live on Radio 1 Christmas Extravaganza 23/12/90)",
+      "artist": "The Proclaimers",
+      "has_synced": true,
+      "path": "select/03_Blue_Christmas_(BBC_Going_Live_on_Radio_1_Christmas_Extravaganza_23_12_90)_The_Proclaimers.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "King of the Road (BBC Going Live on Radio 1 Christmas Extravaganza 23/12/90)",
+      "artist": "The Proclaimers",
+      "has_synced": true,
+      "path": "select/04_King_of_the_Road_(BBC_Going_Live_on_Radio_1_Christmas_Extravaganza_23_12_90)_The_Proclaimers.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "One Step Beyond…(Live At The Hammersmith Odeon) - Live At The Hammersmith Odeon - 23.12.80",
+      "artist": "Madness",
+      "has_synced": true,
+      "path": "select/05_One_Step_Beyond...(Live_At_The_Hammersmith_Odeon)_-_Live_At_The_Hammersmith_Odeo_Madness.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "One Step Beyond (live at the Hammersmith Odeon – 23.12.80)",
+      "artist": "Madness",
+      "has_synced": true,
+      "path": "select/06_One_Step_Beyond_(live_at_the_Hammersmith_Odeon_–_23.12.80)_Madness.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "E.R.N.I.E. (Live At The Hammersmith Odeon) - Live At The Hammersmith Odeon - 23.12.80",
+      "artist": "Madness",
+      "has_synced": false,
+      "path": "select/07_E.R.N.I.E._(Live_At_The_Hammersmith_Odeon)_-_Live_At_The_Hammersmith_Odeon_-_23._Madness.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "E.R.N.I.E. (live at the Hammersmith Odeon – 23.12.80)",
+      "artist": "Madness",
+      "has_synced": false,
+      "path": "select/08_E.R.N.I.E._(live_at_the_Hammersmith_Odeon_–_23.12.80)_Madness.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Mistakes (Live At The Hammersmith Odeon) - Live At The Hammersmith Odeon - 23.12.80",
+      "artist": "Madness",
+      "has_synced": false,
+      "path": "select/09_Mistakes_(Live_At_The_Hammersmith_Odeon)_-_Live_At_The_Hammersmith_Odeon_-_23.12_Madness.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Mistakes (live at the Hammersmith Odeon – 23.12.80)",
+      "artist": "Madness",
+      "has_synced": false,
+      "path": "select/10_Mistakes_(live_at_the_Hammersmith_Odeon_–_23.12.80)_Madness.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Disappear (Live At The Hammersmith Odeon) - Live At The Hammersmith Odeon - 23.12.80",
+      "artist": "Madness",
+      "has_synced": true,
+      "path": "select/11_Disappear_(Live_At_The_Hammersmith_Odeon)_-_Live_At_The_Hammersmith_Odeon_-_23.1_Madness.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Disappear (live at the Hammersmith Odeon – 23.12.80)",
+      "artist": "Madness",
+      "has_synced": true,
+      "path": "select/12_Disappear_(live_at_the_Hammersmith_Odeon_–_23.12.80)_Madness.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Bed And Breakfast Man (Live At The Hammersmith Odeon) - Live At The Hammersmith Odeon - 23.12.80",
+      "artist": "Madness",
+      "has_synced": true,
+      "path": "select/13_Bed_And_Breakfast_Man_(Live_At_The_Hammersmith_Odeon)_-_Live_At_The_Hammersmith__Madness.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Bed and Breakfast Man (live at the Hammersmith Odeon – 23.12.80)",
+      "artist": "Madness",
+      "has_synced": true,
+      "path": "select/14_Bed_and_Breakfast_Man_(live_at_the_Hammersmith_Odeon_–_23.12.80)_Madness.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Overdone (Live At The Hammersmith Odeon) - Live At The Hammersmith Odeon - 23.12.80",
+      "artist": "Madness",
+      "has_synced": true,
+      "path": "select/15_Overdone_(Live_At_The_Hammersmith_Odeon)_-_Live_At_The_Hammersmith_Odeon_-_23.12_Madness.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Overdone (live at the Hammersmith Odeon – 23.12.80)",
+      "artist": "Madness",
+      "has_synced": true,
+      "path": "select/16_Overdone_(live_at_the_Hammersmith_Odeon_–_23.12.80)_Madness.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Not Home Today (Live At The Hammersmith Odeon) - Live At The Hammersmith Odeon - 23.12.80",
+      "artist": "Madness",
+      "has_synced": true,
+      "path": "select/17_Not_Home_Today_(Live_At_The_Hammersmith_Odeon)_-_Live_At_The_Hammersmith_Odeon_-_Madness.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Not Home Today (live at the Hammersmith Odeon – 23.12.80)",
+      "artist": "Madness",
+      "has_synced": true,
+      "path": "select/18_Not_Home_Today_(live_at_the_Hammersmith_Odeon_–_23.12.80)_Madness.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Razor Blade Alley (Live At The Hammersmith Odeon) - Live At The Hammersmith Odeon - 23.12.80",
+      "artist": "Madness",
+      "has_synced": false,
+      "path": "select/19_Razor_Blade_Alley_(Live_At_The_Hammersmith_Odeon)_-_Live_At_The_Hammersmith_Odeo_Madness.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "23:12",
+      "artist": "FOMARE",
+      "has_synced": false,
+      "path": "select/pl_01_23_12_FOMARE.txt"
+    }
+  ]
+}
